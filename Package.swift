@@ -26,7 +26,7 @@ let package = Package(
         .package(
             name: "Lottie",
             url: "https://github.com/airbnb/lottie-ios",
-            .exact("4.4.0")
+            .exact("4.4.3")
         )
     ],
     targets: [
